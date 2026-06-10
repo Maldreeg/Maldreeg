@@ -14,9 +14,4 @@ I'm passionate in building and maintaining a clean software, and enjoy solving r
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maldreeg&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Maldreeg&theme=tokyo-night)<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Maldreeg&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
----
-[![](https://visitcount.itsvg.in/api?id=Maldreeg&icon=1&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
